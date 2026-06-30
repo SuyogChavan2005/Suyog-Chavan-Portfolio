@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Niladri Chatterjee — Portfolio
+# 🚀 Suyog Chavan — Portfolio
 
 [![Live](https://img.shields.io/badge/Live-niladri1.vercel.app-black?style=for-the-badge&logo=vercel)](https://niladri1.vercel.app)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
@@ -157,5 +157,5 @@ VITE_TRACKER_API_URL=http://localhost:5000/api/v1
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Niladri Chatterjee</sub>
+  <sub>Built with ❤️ by Suyog Chavan</sub>
 </div>
