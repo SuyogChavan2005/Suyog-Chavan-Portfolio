@@ -150,9 +150,9 @@ VITE_TRACKER_API_URL=http://localhost:5000/api/v1
 
 ## 📞 Contact
 
-[![Email](https://img.shields.io/badge/Email-code.niladri%40gmail.com-red?style=flat-square&logo=gmail)](mailto:code.niladri@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-niladri1-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/niladri1)
-[![GitHub](https://img.shields.io/badge/GitHub-niladri--1-black?style=flat-square&logo=github)](https://github.com/niladri-1)
+[![Email](https://img.shields.io/badge/Email-code.niladri%40gmail.com-red?style=flat-square&logo=gmail)](mailto:chavansuyog2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niladri1-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/suyogchavan2005/)
+[![GitHub](https://img.shields.io/badge/GitHub-niladri--1-black?style=flat-square&logo=github)](https://github.com/SuyogChavan2005)
 
 ---
 
