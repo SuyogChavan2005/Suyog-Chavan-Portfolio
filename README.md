@@ -2,7 +2,11 @@
 
 # 🚀 Suyog Chavan — Portfolio
 
-[![Live](https://img.shields.io/badge/Live-suyog-chavan-portfolio.vercel.app-black?style=for-the-badge&logo=vercel)]([[https://suyog-chavan-portfolio.vercel.app/](https://suyog-chavan-portfolio.vercel.app/)](https://suyog-chavan-portfolio.vercel.app/))
+## 🌐 Portfolio
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suyog-chavan-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Suyog_Chavan-181717?style=for-the-badge&logo=github)](https://github.com/Suyog-Chavan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suyog_Chavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyog-chavan/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)](https://mongodb.com)
