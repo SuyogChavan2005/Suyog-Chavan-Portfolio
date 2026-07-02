@@ -1,23 +1,24 @@
-require("dotenv").config();
+require('dotenv').config();
+const app = require('./src/app');
+const connectDB = require('./src/config/db');
 
-const app = require("./src/app");
-const connectDB = require("./src/config/db");
+const PORT = process.env.PORT || 5000;
 
-let connected = false;
+const REQUIRED_ENV = ['MONGODB_URI', 'FRONTEND_URL'];
+const missing = REQUIRED_ENV.filter((k) => !process.env[k]);
+if (missing.length) {
+  console.error(`[server] Missing required env vars: ${missing.join(', ')}`);
+  process.exit(1);
+}
 
-module.exports = async (req, res) => {
-  try {
-    if (!connected) {
-      await connectDB();
-      connected = true;
-    }
-
-    app(req, res);
-  } catch (err) {
-    console.error(err);
-    res.status(500).json({
-      success: false,
-      message: err.message,
-    });
-  }
+const start = async () => {
+  await connectDB();
+  app.listen(PORT, () => {
+    console.log(`[server] running on port ${PORT} in ${process.env.NODE_ENV} mode`);
+  });
 };
+
+start().catch((err) => {
+  console.error('[server] failed to start:', err.message);
+  process.exit(1);
+});
