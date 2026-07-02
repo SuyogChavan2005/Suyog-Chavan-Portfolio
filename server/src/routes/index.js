@@ -7,15 +7,6 @@ const router = express.Router();
 
 router.use(globalRateLimiter);
 
-// 👇 Add this
-router.get('/', (req, res) => {
-  res.json({
-    success: true,
-    message: 'Portfolio API is running',
-    version: 'v1',
-  });
-});
-
 router.get('/health', (req, res) =>
   res.json({
     success: true,
