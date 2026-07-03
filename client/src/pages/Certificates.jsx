@@ -110,7 +110,7 @@ const certificates = [
     id: 7,
     title: "Front End Development - HTML",
     issuer: "Great Learning",
-    date: "o",
+    date: "October 2024",
     link: "https://drive.google.com/file/d/1NTG98RXQZZwrgETdFveFoAe3r58FRW6z/view?usp=sharing",
     description:
       "Learned the fundamentals of HTML5 to build structured, semantic, and accessible web pages.",
@@ -127,7 +127,7 @@ const certificates = [
     id: 8,
     title: "Introducción a la Inteligencia Artificial",
     issuer: "Great Learning",
-    date: "o",
+    date: "October 2024",
     link: "https://drive.google.com/file/d/1FUYIS6v3vdVpFXGen66iwgDJbpY1IPP_/view?usp=sharing",
     description:
       "Learned the fundamentals of Artificial Intelligence, including core AI concepts, problem-solving techniques, and basic machine learning principles.",
@@ -143,7 +143,7 @@ const certificates = [
     id: 9,
     title: "Introduction to Cyber Security",
     issuer: "Great Learning",
-    date: "o",
+    date: "October 2024",
     link: "https://drive.google.com/file/d/1H7D4YeBi78kWNCRvSDy8NJaQ7-qvtnP9/view?usp=sharing",
     description:
       "Learned the fundamentals of cybersecurity, including threat detection, network security, and best practices for protecting digital systems.",
@@ -159,7 +159,7 @@ const certificates = [
     id: 10,
     title: "Introduction to Deep Learning",
     issuer: "Great Learning",
-    date: "o",
+    date: "October 2024",
     link: "https://drive.google.com/file/d/1DX4basRer6HO9kaqDvbZAeg9mvlamcO_/view?usp=sharing",
     description:
       "Learned the fundamentals of deep learning, including neural networks, model training, and AI-based prediction techniques.",
@@ -175,7 +175,7 @@ const certificates = [
     id: 11,
     title: "Introduction to Ethical Hacking",
     issuer: "Great Learning",
-    date: "o",
+    date: "October 2024",
     link: "https://drive.google.com/file/d/1sdolnU5pTNNl16l2n8r_QNQIX-oeonGu/view?usp=sharing",
     description:
       "Learned the fundamentals of ethical hacking, including identifying vulnerabilities, understanding cyber threats, and applying basic security practices.",
@@ -191,7 +191,7 @@ const certificates = [
     id: 12,
     title: "Introduction to Information Security",
     issuer: "Great Learning",
-    date: "o",
+    date: "October 2024",
     link: "https://drive.google.com/file/d/1HtORustId8f03M-9xVWjh796TnVmSFns/view?usp=sharing",
     description:
       "Learned the fundamentals of information security, including protecting data, managing risks, and implementing core security principles.",
@@ -207,7 +207,7 @@ const certificates = [
     id: 13,
     title: "Introduction to JavaScript",
     issuer: "Great Learning",
-    date: "o",
+    date: "October 2024",
     link: "https://drive.google.com/file/d/16SHNqgQjppIju17Ly71SsPnlNLXLESQj/view?usp=sharing",
     description:
       "Learned the fundamentals of JavaScript, including variables, functions, DOM manipulation, and interactive web development.",
@@ -223,7 +223,7 @@ const certificates = [
     id: 14,
     title: "Java Programming",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1V_MY9g99ju5MqQEgNGiW0PrF1Z8hP6Fa/view?usp=sharing",
     description:
       "Learned the fundamentals of Java programming, including object-oriented programming, data structures, and application development concepts.",
@@ -239,7 +239,7 @@ const certificates = [
     id: 15,
     title: "Linux Tutorial",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1Z14DF2AtxGUtckcsqy6Z4MSoc4Dz4Fhf/view?usp=sharing",
     description:
       "Learned the fundamentals of Linux, including command-line operations, file management, system administration, and shell scripting basics.",
@@ -255,7 +255,7 @@ const certificates = [
     id: 16,
     title: "React JS Tutorial",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1gX7fjzS2HPSX1yTr1cYOjKsV0f7fa9qk/view?usp=sharing",
     description:
       "Learned the fundamentals of React.js, including component-based development, state management, hooks, and building dynamic web applications.",
@@ -271,7 +271,7 @@ const certificates = [
     id: 17,
     title: "Programming Basics",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1duaFqRXR-kF4hGIYkLQXYdqg6zDbWKeY/view?usp=sharing",
     description:
       "Learned the fundamentals of programming, including problem-solving, algorithms, data types, control structures, and basic coding concepts.",
@@ -287,7 +287,7 @@ const certificates = [
     id: 18,
     title: "Software Testing Tutorial",
     issuer: "Great Learning",
-    date: "o",
+    date: "October 2024",
     link: "https://drive.google.com/file/d/1K0BwZ1ca67L48MvbDswQ1Qa8UKHeKPUo/view?usp=sharing",
     description:
       "Learned the fundamentals of software testing, including test planning, debugging, defect tracking, and quality assurance practices.",
@@ -303,7 +303,7 @@ const certificates = [
     id: 19,
     title: "Angular7 for Advanced Level",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1KAKmuMXKBeW3Ofq2vlFsiMqRBkU-v3M0/view?usp=sharing",
     description:
       "Learned advanced Angular 7 concepts, including component architecture, routing, services, forms, and building scalable single-page applications.",
@@ -319,7 +319,7 @@ const certificates = [
     id: 20,
     title: "Cloud Foundations - Advanced",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1AnA-7shF_ZRuMlVPOvaFXvJN6xQNuYm9/view?usp=sharing",
     description:
       "Learned advanced cloud computing concepts, including cloud architecture, deployment models, security, and scalable infrastructure management.",
@@ -335,7 +335,7 @@ const certificates = [
     id: 21,
     title: "Angular7 for Intermediate Level",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1ukGMtEl9oetYJlyPbZ4DF2TcjQuTGk7L/view?usp=sharing",
     description:
       "Learned intermediate Angular 7 concepts, including routing, services, forms, state management, and building responsive single-page applications.",
@@ -351,7 +351,7 @@ const certificates = [
     id: 22,
     title: "Binary Trees",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1jYNuPjSDiwle_TKhpvlt6206sCzFSTHM/view?usp=sharing",
     description:
       "Learned the fundamentals of binary trees, including tree traversal, insertion, deletion, and recursive problem-solving techniques.",
@@ -367,7 +367,7 @@ const certificates = [
     id: 23,
     title: "AWS Lambda Tutorial",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1-8MdFYQAEprkoPLaDB9FkrbuGrxZmNDH/view?usp=sharing",
     description:
       "Learned the fundamentals of AWS Lambda, including serverless computing, event-driven execution, and deploying cloud functions.",
@@ -383,7 +383,7 @@ const certificates = [
     id: 24,
     title: "Cloud Computing Projects for Beginners",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1Ri8f3iL4yRQ3Ukx6hNT7aEdjdOUfWYx3/view?usp=sharing",
     description:
       "Learned to build beginner-friendly cloud computing projects while applying core cloud services, deployment, and infrastructure concepts.",
@@ -399,7 +399,7 @@ const certificates = [
     id: 25,
     title: "CSS Tutorial",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1ujA9PkMSzl9hzsGAvKRMKvISbRfSyqHp/view?usp=sharing",
     description:
       "Learned the fundamentals of CSS, including styling web pages, layouts, animations, and responsive design techniques.",
@@ -415,7 +415,7 @@ const certificates = [
     id: 26,
     title: "Cyber Security For Leadership",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1BOsRRgkzsV-ZFmshB3IgaWo_CQNVyRIg/view?usp=sharing",
     description:
       "Learned the fundamentals of cybersecurity leadership, including risk management, security governance, and strategic decision-making for organizations.",
@@ -431,7 +431,7 @@ const certificates = [
     id: 27,
     title: "Ecommerce Website with HTML & CSS",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1y4vFAwf8NngM4OCFnFCSgw1sQzn8VIEQ/view?usp=sharing",
     description:
       "Built a responsive eCommerce website using HTML and CSS, focusing on modern layouts, styling, and user-friendly design.",
@@ -447,7 +447,7 @@ const certificates = [
     id: 28,
     title: "HTML Tutorial",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1XJl6MLKrfrwQOCc9fTLQZoWuaUPV2MIk/view?usp=sharing",
     description:
       "Learned the fundamentals of HTML5, including semantic markup, forms, multimedia, and creating structured web pages.",
@@ -463,7 +463,7 @@ const certificates = [
     id: 29,
     title: "Machine Translation",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/14gG8us7OZwUNglnI6mN2BM7VWCG5h2zO/view?usp=sharing",
     description:
       "Learned the fundamentals of machine translation, including natural language processing, language models, and automated text translation techniques.",
@@ -479,7 +479,7 @@ const certificates = [
     id: 30,
     title: "Introduction to Neural Networks and Deep Learning",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1wij2tq92d_Jats4AkIMiqHLiEuS74kdy/view?usp=sharing",
     description:
       "Learned the fundamentals of neural networks and deep learning, including model architecture, training techniques, and AI-driven prediction concepts.",
@@ -495,7 +495,7 @@ const certificates = [
     id: 31,
     title: "MEAN Stack Fundamentals",
     issuer: "Great Learning",
-    date: "",
+    date: "November 2024",
     link: "https://drive.google.com/file/d/1Omvkq-oi2dN9zTxa2cNhbfGjosh6l4Mo/view?usp=sharing",
     description:
       "Learned the fundamentals of the MEAN stack, including building full-stack web applications using MongoDB, Express.js, Angular, and Node.js.",
@@ -511,7 +511,7 @@ const certificates = [
     id: 32,
     title: "SQL for Data Science",
     issuer: "Great Learning",
-    date: "o",
+    date: "October 2024",
     link: "https://drive.google.com/file/d/1RyZioA3Olq79z3fHqiabB58SAbeEb-JT/view?usp=sharing",
     description:
       "Learned SQL fundamentals for data science, including querying, filtering, aggregating, and analyzing data from relational databases.",
