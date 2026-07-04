@@ -8,6 +8,24 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
+    id: 6,
+    title: "Suyog Chavan Portfolio",
+    description:
+      "A modern and responsive personal portfolio built with React, TypeScript, Tailwind CSS, and Framer Motion to showcase my projects, skills, experience, and certifications.",
+    image: project6,
+    github: "https://github.com/SuyogChavan2005/Suyog-Chavan-Portfolio",
+    live: "https://suyog-chavan-portfolio.vercel.app/",
+    tags: [
+      "HTML5",
+      "Node.js",
+      "React + Vite",
+      " MongoDB Atlas",
+      "JavaScript",
+      "Tailwind",
+      "CSS",
+    ],
+  },
+  {
     id: 1,
     title: "Online Web Store.",
     description:
