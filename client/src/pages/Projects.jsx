@@ -51,7 +51,7 @@ const projects = [
       "Built an online Library Management System using HTML, CSS, JavaScript, and PHP, featuring role-based login, book borrowing, returns, fine tracking, and admin management.",
     image: project2,
     github: "https://github.com/SuyogChavan2005/Online-Library-Management-System.",
-    live: "",
+    live: "https://online-library-management-system.free.nf/",
     tags: [
       "HTML",
       "CSS",
