@@ -9,6 +9,23 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
+    id: 7,
+    title: "Django Blog Website",
+    description:
+      "A full-stack Django blog website with user authentication, CRUD posts, categories, likes, contact form, and responsive UI.",
+    image: project7,
+    github: "https://github.com/SuyogChavan2005/Django-Blog-Website",
+    live: "https://django-blog-website-tcn7.onrender.com/",
+    tags: [
+      "HTML5",
+      "CSS",
+      "Javascript",
+      "Python",
+      "Django",
+      "Database",
+    ],
+  },
+  {
     id: 6,
     title: "Suyog Chavan Portfolio",
     description:
