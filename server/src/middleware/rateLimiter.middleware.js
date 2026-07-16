@@ -2,7 +2,7 @@ const rateLimit = require('express-rate-limit');
 
 const contactRateLimiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 3,
+  max: 10,
   message: {
     success: false,
     message: 'Too many submissions. Please wait 15 minutes and try again.',
