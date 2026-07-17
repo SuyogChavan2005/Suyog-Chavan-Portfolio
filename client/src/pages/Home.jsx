@@ -77,7 +77,7 @@ const Home = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           Website Developer specializing in Full Stack Development with
-          expertise in React.js, Node.js and modern Web Technologies.
+          expertise in Laravel, React.js, Node.js and modern Web Technologies.
         </motion.p>
 
         <motion.div
